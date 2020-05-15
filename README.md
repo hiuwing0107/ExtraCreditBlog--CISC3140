@@ -1,5 +1,7 @@
 # Summary
 
+Link to my Blog: https://hiuwing0107.github.io
+
 ## Blog Objective
 
 Through the blog, I hope I can express myself and share my learning experiences in those diaries. During this semester, I can use it to make a record of my learning schedule. Not only the things I learned in class, but also the other computer skills that I wanted to understand. After a long time, I can look back my blog, then I can relive all the knowledges. Since for some specific computer topics, such as some project. I put all the steps and procedures of my works. Therefore, if I forget anything, I can review it and do the practice again.
